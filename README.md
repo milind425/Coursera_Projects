@@ -1,2 +1,3 @@
 # Coursera_Projects
-Hands-on projects on Coursera Project Network
+Hands-on projects by Coursera Project Network on Rhyme
+
